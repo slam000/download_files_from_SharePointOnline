@@ -1,0 +1,2 @@
+# Requerimientos para el script de descarga de SharePoint
+shareplum==0.5.1
