@@ -2,7 +2,8 @@
 # Descarga de Archivos desde SharePoint Online
 
 ## Descripción
-Este proyecto contiene un script en Python para descargar archivos desde un sitio de SharePoint Online a una carpeta local. Además, registra los detalles de las descargas en un archivo CSV. Este scritp forma parte de un proceso de migración y puede que las políticas que sean necesarian en tu proceso no sean las mismas por lo que será necesario que revises el script.
+Este proyecto contiene un script en Python para descargar archivos desde un sitio de SharePoint Online a una carpeta local. Además, registra los detalles de las descargas en un archivo CSV. 
+Este scritp forma parte de un proceso de migración y puede que las políticas que sean necesarian en tu proceso no sean las mismas por lo que será necesario que revises el script.
 
 ## Requerimientos
 - Python 3.x
